@@ -1,0 +1,35 @@
+ $the_cow = <<EOC;
+        $thoughts
+         $thoughts               ...''''''''',,,,,,'....
+          $thoughts            .','..................'','..
+           $thoughts         .''..              .......''','.
+            $thoughts       .'..                   ......'''''.
+             $thoughts    .'.....''',,,,,'''...............''','.
+              ..',;;::cccllllooolllcc::;,''.........''',.
+                ...':lllllooooooooooooooooollc:;,,''...'..',.
+              ....'clllloooooooddddddddddddooolllc::;,,,''.',
+             .'...:lllooooooodddddddddddddddddddooolllcc:;,',
+             ....,clllloooddddddddxxxxxxxxxxxxxxxxxxdddddoc,,
+             .'..,cllllllooddddddxxxxxxxxxxxxxxxxxxxxxxxxxdc;
+             .'..;cllc:;;;;;::cloodxxxxxxxxxxxddoolllllooddl;
+             ...':lccc:;;;,,',,;:clddddxxxxddol:;,,;;::clodo,
+            .'..,clcllcc:;;::cccc::clooddxxdoolc:;;:cloooodo:
+            ,,'.;llll:;:;..':llc:;,;:clodddoolcc:'',:lccodddl
+            ,,;,:llolllllccllolc:;,;:ccoodoolllllllodxdddxxxo
+            ;;;;cllloooodddooolc:;;:::clooooooddddxxxxxxxxxxd
+            ;:;;:lloooddddddoolc:::::::cloooooddxxxxxxxxxxxxd
+            ;c:;;clllooddddddol:::;:::cclooooodxxxxxxxxxxxxxd
+            .;:;;:clloodddddol:;::::cccloddooodddxxxkkxxxxxdc
+              ...;:clloodolc;;,,,,,::clodxdlcclllooodxxxxxdc.
+                 '::clolc,..........'',;;;;,''',;,;;:ldxddo'
+                 .;;:llc,'.',,',,,,,,''.',,;;,,,,,;::lxkxd:.
+                  ';;:c::;,;:;,,cloddddodxddoo:;;cdxkOOOko'
+                  .,;;;;;'',;::;;:loooodxddolc:coxkOO0OOk:.
+                   .;;''..''',;;::ccccllllloollldxOO00Ox;.
+                    .,,.',,..'',;;:::::ccclcc:::coxkkxl.
+                     .'''',,,'',;;;;::::::ccc::;;:lol,.
+                       ..',,;;;:::cclllllolollccccl:.
+                         ..',;:::::cclcclllllllcc:,.
+                             ..,;:::ccccccccccc;..
+                                 ..,;;:cccc:;;'
+EOC
