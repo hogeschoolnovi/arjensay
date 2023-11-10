@@ -1,0 +1,14 @@
+pkgbase = arjensay
+	pkgdesc = Cowsay maar dan met Arjen!
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/hogeschoolnovi/arjensay
+	arch = any
+	license = GPL
+	depends = cowsay
+	source = arjen.cow
+	source = LICENSE
+	sha256sums = 08e079da5378c33915dacef67834dd7d10e74715aa0dcc0d2db2f6e007155ac3
+	sha256sums = 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986
+
+pkgname = arjensay
